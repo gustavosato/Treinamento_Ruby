@@ -8,6 +8,7 @@
 #     total_encontrado
 # end
 
+#utf-8
 require_relative 'ui'
 require_relative 'rank'
 
